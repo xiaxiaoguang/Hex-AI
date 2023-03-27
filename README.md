@@ -11,5 +11,5 @@ This part is implemented by supervised learning in a easy residual CNN model.
 
 This part is implemented by two model fighted and generated datas by another model.
 
-BUT I DIDN'T ACHIEVE ANYTHING！
+BUT I DIDN'T ACHIEVE ANYTHING！PLEASE HELP ME!
 
